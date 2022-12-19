@@ -1,5 +1,5 @@
 import { Directive, Input } from '@angular/core';
-import { NG_VALIDATORS, Validator, ValidationErrors, FormGroup, AbstractControl } from '@angular/forms';
+import { NG_VALIDATORS, Validator, ValidationErrors, FormGroup } from '@angular/forms';
 
 import { MustMatch } from './must-match.validator';
 
